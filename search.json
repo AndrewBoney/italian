@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "italian",
+    "section": "",
+    "text": "This website documents my journey through italian lessons (specifically https://www.bristolfolkhouse.co.uk/courses/italian-beginners-entry-bl11-15198).\nThis is partly for notetaking and partly for learning nbdev.\nI think at a min I’ll use the markdown to take notes. I’d like to formalize further if possible; perhaps seeing patterns in the language, automating translations, perhaps audio classification. Not exactly sure yet, will see how things progress"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "italian",
+    "section": "Install",
+    "text": "Install\npip install italian"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "italian",
+    "section": "How to use",
+    "text": "How to use\nOne notebook per lesson; Simples"
+  }
+]
