@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "italian"
+  site-url: "https://AndrewBoney.github.io/italian"
+  description: "For italian lessons"
+  repo-branch: main
+  repo-url: "https://github.com/AndrewBoney/italian"
