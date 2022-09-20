@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://AndrewBoney.github.io',
                 'git_url': 'https://github.com/AndrewBoney/italian',
                 'lib_path': 'italian'},
-  'syms': {'italian.core': {'italian.core.foo': ('lesson.html#foo', 'italian/core.py')}, 'italian.lesson_1': {}}}
+  'syms': { 'italian.core': {'italian.core.foo': ('lesson.html#foo', 'italian/core.py')},
+            'italian.lesson_1': { 'italian.lesson_1.save_text_mp3': ('lesson.html#save_text_mp3', 'italian/lesson_1.py'),
+                                  'italian.lesson_1.say_mp3': ('lesson.html#say_mp3', 'italian/lesson_1.py')}}}
